@@ -1,1 +1,1 @@
-# BootStrab-priject
+# BootStrab-project
